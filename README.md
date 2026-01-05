@@ -8,7 +8,6 @@ A basic console-based calculator program written in Java. It takes two integer i
 - Division
 
 ## 🔧 Features
-
 - Uses `Scanner` class to take user input.
 - Performs all four basic arithmetic operations.
 - Displays results in a clean format on the console.

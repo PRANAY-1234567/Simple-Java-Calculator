@@ -2,6 +2,7 @@
 
 A basic console-based calculator program written in Java. It takes two integer inputs from the user and performs the following arithmetic operations:
 
+
 - Addition
 - Subtraction
 - Multiplication
